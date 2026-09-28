@@ -52,10 +52,3 @@ stackgap-dev/
 *   **Live Deployed Application:** `https://vercel.app` 
 
 ---
-
-## 💡 Interview Talking Points Covered
-
-Building StackGap.dev directly addresses the core engineering competencies checked by hiring panels:
-1.  **State Management:** Demonstrates deep React state workflows where horizontal progress arrays and dynamic course injects update reactively via native JS array manipulation (`.map()`, `.filter()`).
-2.  **Custom Middleware:** Features bespoke Express middleware handling clean input sanitization before data is queried against the MongoDB layer.
-3.  **Systems & Data Engineering:** Showcases cross-environment data pipeline execution, fetching UI configurations from an Express layer driven by data science logic.

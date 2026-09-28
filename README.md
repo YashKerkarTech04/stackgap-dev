@@ -49,8 +49,7 @@ stackgap-dev/
 
 ## 🚀 Live Demo & Documentation
 
-*   **Live Deployed Application:** `https://vercel.app` *(Replace with your actual link once deployed)*
-*   **Video Architecture Walkthrough:** `[Link to your 1-minute video demo]`
+*   **Live Deployed Application:** `https://vercel.app` 
 
 ---
 

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fullstack",
+    "name": "Full Stack Developer",
+    "title_keywords": ["full stack", "full-stack", "fullstack", "mern", "mean stack"],
+    "exclude_keywords": ["intern", "manager", "sales", "lead generation", "marketing"]
+  },
+  {
+    "id": "frontend",
+    "name": "Frontend Developer",
+    "title_keywords": ["frontend", "front-end", "front end", "react developer", "ui developer"],
+    "exclude_keywords": ["intern", "manager", "sales", "backend developer"]
+  },
+  {
+    "id": "backend",
+    "name": "Backend Developer",
+    "title_keywords": ["backend", "back-end", "back end", "api developer", "server side"],
+    "exclude_keywords": ["intern", "manager", "sales", "frontend developer"]
+  },
+  {
+    "id": "data_analyst",
+    "name": "Data Analyst",
+    "title_keywords": ["data analyst", "business analyst", "reporting analyst", "analytics analyst"],
+    "exclude_keywords": ["intern", "manager", "sales", "data scientist", "data engineer"]
+  }
+]

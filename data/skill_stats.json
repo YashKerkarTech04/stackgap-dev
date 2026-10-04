@@ -1,0 +1,5469 @@
+[
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "java",
+    "count": 91,
+    "sample_size": 171,
+    "pct": 53.2,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 12
+      },
+      {
+        "name": "Procore Technologies",
+        "jobs": 5
+      },
+      {
+        "name": "Ulta Beauty",
+        "jobs": 2
+      },
+      {
+        "name": "Electrify America",
+        "jobs": 2
+      },
+      {
+        "name": "TekValue IT Solutions",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "aws",
+    "count": 78,
+    "sample_size": 171,
+    "pct": 45.6,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 12
+      },
+      {
+        "name": "Procore Technologies",
+        "jobs": 3
+      },
+      {
+        "name": "The Baer Group",
+        "jobs": 2
+      },
+      {
+        "name": "HireBus",
+        "jobs": 1
+      },
+      {
+        "name": "Dexian",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "python",
+    "count": 66,
+    "sample_size": 171,
+    "pct": 38.6,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 12
+      },
+      {
+        "name": "Procore Technologies",
+        "jobs": 4
+      },
+      {
+        "name": "DataAnnotation",
+        "jobs": 2
+      },
+      {
+        "name": "Ulta Beauty",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "agile",
+    "count": 58,
+    "sample_size": 171,
+    "pct": 33.9,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 12
+      },
+      {
+        "name": "The Baer Group",
+        "jobs": 2
+      },
+      {
+        "name": "Electrify America",
+        "jobs": 2
+      },
+      {
+        "name": "Dexian",
+        "jobs": 1
+      },
+      {
+        "name": "Perficient",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "sql",
+    "count": 55,
+    "sample_size": 171,
+    "pct": 32.2,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 12
+      },
+      {
+        "name": "The Baer Group",
+        "jobs": 2
+      },
+      {
+        "name": "Electrify America",
+        "jobs": 2
+      },
+      {
+        "name": "Tanisha Systems, Inc",
+        "jobs": 2
+      },
+      {
+        "name": "DataAnnotation",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "javascript",
+    "count": 48,
+    "sample_size": 171,
+    "pct": 28.1,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 12
+      },
+      {
+        "name": "Electrify America",
+        "jobs": 2
+      },
+      {
+        "name": "DataAnnotation",
+        "jobs": 2
+      },
+      {
+        "name": "HireBus",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "kubernetes",
+    "count": 48,
+    "sample_size": 171,
+    "pct": 28.1,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 11
+      },
+      {
+        "name": "Procore Technologies",
+        "jobs": 3
+      },
+      {
+        "name": "Dexian",
+        "jobs": 1
+      },
+      {
+        "name": "Perficient",
+        "jobs": 1
+      },
+      {
+        "name": "Cloudbeds",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "ci_cd",
+    "count": 47,
+    "sample_size": 171,
+    "pct": 27.5,
+    "top_companies": [
+      {
+        "name": "Procore Technologies",
+        "jobs": 3
+      },
+      {
+        "name": "Electrify America",
+        "jobs": 2
+      },
+      {
+        "name": "HireBus",
+        "jobs": 1
+      },
+      {
+        "name": "Dexian",
+        "jobs": 1
+      },
+      {
+        "name": "Perficient",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "docker",
+    "count": 43,
+    "sample_size": 171,
+    "pct": 25.1,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 12
+      },
+      {
+        "name": "Cloudbeds",
+        "jobs": 1
+      },
+      {
+        "name": "Bravens Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "Ulta Beauty",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "azure",
+    "count": 43,
+    "sample_size": 171,
+    "pct": 25.1,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 12
+      },
+      {
+        "name": "Perficient",
+        "jobs": 1
+      },
+      {
+        "name": "Bravens Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "Ulta Beauty",
+        "jobs": 1
+      },
+      {
+        "name": "Esri",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "rest_api",
+    "count": 41,
+    "sample_size": 171,
+    "pct": 24.0,
+    "top_companies": [
+      {
+        "name": "SAGE IT ",
+        "jobs": 2
+      },
+      {
+        "name": "TekisHub Consulting Services ",
+        "jobs": 1
+      },
+      {
+        "name": "Dexian",
+        "jobs": 1
+      },
+      {
+        "name": "Esri",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "spring_boot",
+    "count": 39,
+    "sample_size": 171,
+    "pct": 22.8,
+    "top_companies": [
+      {
+        "name": "Electrify America",
+        "jobs": 2
+      },
+      {
+        "name": "SAGE IT ",
+        "jobs": 2
+      },
+      {
+        "name": "TekisHub Consulting Services ",
+        "jobs": 1
+      },
+      {
+        "name": "Bravens Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "Capital One",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "nodejs",
+    "count": 34,
+    "sample_size": 171,
+    "pct": 19.9,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 12
+      },
+      {
+        "name": "HireBus",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "TechWish",
+        "jobs": 1
+      },
+      {
+        "name": "CyberCoders",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "microservices",
+    "count": 31,
+    "sample_size": 171,
+    "pct": 18.1,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 4
+      },
+      {
+        "name": "Ulta Beauty",
+        "jobs": 2
+      },
+      {
+        "name": "Dexian",
+        "jobs": 1
+      },
+      {
+        "name": "Cloudbeds",
+        "jobs": 1
+      },
+      {
+        "name": "Bravens Inc.",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "gcp",
+    "count": 31,
+    "sample_size": 171,
+    "pct": 18.1,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 12
+      },
+      {
+        "name": "Dexian",
+        "jobs": 1
+      },
+      {
+        "name": "Esri",
+        "jobs": 1
+      },
+      {
+        "name": "Simpler Trading",
+        "jobs": 1
+      },
+      {
+        "name": "RemoteWorker US",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "postgresql",
+    "count": 28,
+    "sample_size": 171,
+    "pct": 16.4,
+    "top_companies": [
+      {
+        "name": "Procore Technologies",
+        "jobs": 3
+      },
+      {
+        "name": "Jobot",
+        "jobs": 2
+      },
+      {
+        "name": "Cloudbeds",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "CyberCoders",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "typescript",
+    "count": 23,
+    "sample_size": 171,
+    "pct": 13.5,
+    "top_companies": [
+      {
+        "name": "Procore Technologies",
+        "jobs": 3
+      },
+      {
+        "name": "HireBus",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "CyberCoders",
+        "jobs": 1
+      },
+      {
+        "name": "Atlas Inside",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "react",
+    "count": 23,
+    "sample_size": 171,
+    "pct": 13.5,
+    "top_companies": [
+      {
+        "name": "SAGE IT ",
+        "jobs": 2
+      },
+      {
+        "name": "Procore Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "TekisHub Consulting Services ",
+        "jobs": 1
+      },
+      {
+        "name": "Cloudbeds",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "git",
+    "count": 17,
+    "sample_size": 171,
+    "pct": 9.9,
+    "top_companies": [
+      {
+        "name": "Bravens Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "EPITEC",
+        "jobs": 1
+      },
+      {
+        "name": "BALANCED Media|Technology",
+        "jobs": 1
+      },
+      {
+        "name": "ChabezTech LLC",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "machine_learning",
+    "count": 16,
+    "sample_size": 171,
+    "pct": 9.4,
+    "top_companies": [
+      {
+        "name": "CyberCoders",
+        "jobs": 1
+      },
+      {
+        "name": "BALANCED Media|Technology",
+        "jobs": 1
+      },
+      {
+        "name": "Awardco",
+        "jobs": 1
+      },
+      {
+        "name": "Morgan King Technology",
+        "jobs": 1
+      },
+      {
+        "name": "Pop-Up Talent",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "graphql",
+    "count": 12,
+    "sample_size": 171,
+    "pct": 7.0,
+    "top_companies": [
+      {
+        "name": "VolunteerMatch",
+        "jobs": 1
+      },
+      {
+        "name": "Simpler Trading",
+        "jobs": 1
+      },
+      {
+        "name": "BALANCED Media|Technology",
+        "jobs": 1
+      },
+      {
+        "name": "Ulta Beauty",
+        "jobs": 1
+      },
+      {
+        "name": "KPG99 INC",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "mongodb",
+    "count": 12,
+    "sample_size": 171,
+    "pct": 7.0,
+    "top_companies": [
+      {
+        "name": "Ulta Beauty",
+        "jobs": 2
+      },
+      {
+        "name": "Electrify America",
+        "jobs": 2
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "Webflow",
+        "jobs": 1
+      },
+      {
+        "name": "SPAR Information Systems LLC",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "redis",
+    "count": 12,
+    "sample_size": 171,
+    "pct": 7.0,
+    "top_companies": [
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "Aerodome",
+        "jobs": 1
+      },
+      {
+        "name": "Saragossa",
+        "jobs": 1
+      },
+      {
+        "name": "Electrify America",
+        "jobs": 1
+      },
+      {
+        "name": "Novaprime",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "terraform",
+    "count": 12,
+    "sample_size": 171,
+    "pct": 7.0,
+    "top_companies": [
+      {
+        "name": "Jobot",
+        "jobs": 1
+      },
+      {
+        "name": "Experis",
+        "jobs": 1
+      },
+      {
+        "name": "Elevate Labs",
+        "jobs": 1
+      },
+      {
+        "name": "TOPSYS IT",
+        "jobs": 1
+      },
+      {
+        "name": "UnicornSourcers",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "html",
+    "count": 11,
+    "sample_size": 171,
+    "pct": 6.4,
+    "top_companies": [
+      {
+        "name": "Electrify America",
+        "jobs": 2
+      },
+      {
+        "name": "DataAnnotation",
+        "jobs": 2
+      },
+      {
+        "name": "Simpler Trading",
+        "jobs": 1
+      },
+      {
+        "name": "Freedom Mortgage",
+        "jobs": 1
+      },
+      {
+        "name": "Yahoo",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "ruby_on_rails",
+    "count": 10,
+    "sample_size": 171,
+    "pct": 5.8,
+    "top_companies": [
+      {
+        "name": "Procore Technologies",
+        "jobs": 5
+      },
+      {
+        "name": "Dexian",
+        "jobs": 1
+      },
+      {
+        "name": "Aerodome",
+        "jobs": 1
+      },
+      {
+        "name": "Braintrust",
+        "jobs": 1
+      },
+      {
+        "name": "Chime",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "go",
+    "count": 10,
+    "sample_size": 171,
+    "pct": 5.8,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 1
+      },
+      {
+        "name": "AllSTEM Connections",
+        "jobs": 1
+      },
+      {
+        "name": "Fanatics",
+        "jobs": 1
+      },
+      {
+        "name": "hackajob",
+        "jobs": 1
+      },
+      {
+        "name": "EPITEC",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "mysql",
+    "count": 10,
+    "sample_size": 171,
+    "pct": 5.8,
+    "top_companies": [
+      {
+        "name": "Cloudbeds",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "AllSTEM Connections",
+        "jobs": 1
+      },
+      {
+        "name": "Beacon Hill Staffing Group",
+        "jobs": 1
+      },
+      {
+        "name": "Capital One",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "css",
+    "count": 9,
+    "sample_size": 171,
+    "pct": 5.3,
+    "top_companies": [
+      {
+        "name": "Electrify America",
+        "jobs": 2
+      },
+      {
+        "name": "Simpler Trading",
+        "jobs": 1
+      },
+      {
+        "name": "Freedom Mortgage",
+        "jobs": 1
+      },
+      {
+        "name": "Ulta Beauty",
+        "jobs": 1
+      },
+      {
+        "name": "INSPYR Solutions",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "angular",
+    "count": 9,
+    "sample_size": 171,
+    "pct": 5.3,
+    "top_companies": [
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "hackajob",
+        "jobs": 1
+      },
+      {
+        "name": "Freedom Mortgage",
+        "jobs": 1
+      },
+      {
+        "name": "RemoteWorker US",
+        "jobs": 1
+      },
+      {
+        "name": "CA-One Tech Cloud Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "jest",
+    "count": 9,
+    "sample_size": 171,
+    "pct": 5.3,
+    "top_companies": [
+      {
+        "name": "HireBus",
+        "jobs": 1
+      },
+      {
+        "name": "KPG99 INC",
+        "jobs": 1
+      },
+      {
+        "name": "Webflow",
+        "jobs": 1
+      },
+      {
+        "name": "Randstad Digital Americas",
+        "jobs": 1
+      },
+      {
+        "name": "Yotta Tech Ports Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "etl",
+    "count": 7,
+    "sample_size": 171,
+    "pct": 4.1,
+    "top_companies": [
+      {
+        "name": "Pop-Up Talent",
+        "jobs": 1
+      },
+      {
+        "name": "Worky",
+        "jobs": 1
+      },
+      {
+        "name": "Walmart Global Tech",
+        "jobs": 1
+      },
+      {
+        "name": "AuxHealth",
+        "jobs": 1
+      },
+      {
+        "name": "Palo Alto Networks",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "jira",
+    "count": 7,
+    "sample_size": 171,
+    "pct": 4.1,
+    "top_companies": [
+      {
+        "name": "Bravens Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "ChabezTech LLC",
+        "jobs": 1
+      },
+      {
+        "name": "Terbium Technologies Inc",
+        "jobs": 1
+      },
+      {
+        "name": "WeaveGrid",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "linux",
+    "count": 6,
+    "sample_size": 171,
+    "pct": 3.5,
+    "top_companies": [
+      {
+        "name": "hackajob",
+        "jobs": 1
+      },
+      {
+        "name": "Electrify America",
+        "jobs": 1
+      },
+      {
+        "name": "Yahoo",
+        "jobs": 1
+      },
+      {
+        "name": "ALOIS Solutions",
+        "jobs": 1
+      },
+      {
+        "name": "CGI",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "elasticsearch",
+    "count": 5,
+    "sample_size": 171,
+    "pct": 2.9,
+    "top_companies": [
+      {
+        "name": "Saragossa",
+        "jobs": 1
+      },
+      {
+        "name": "Raymond James",
+        "jobs": 1
+      },
+      {
+        "name": "Favor Delivery",
+        "jobs": 1
+      },
+      {
+        "name": "Palantir Technologies",
+        "jobs": 1
+      },
+      {
+        "name": "CGI",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "flask",
+    "count": 4,
+    "sample_size": 171,
+    "pct": 2.3,
+    "top_companies": [
+      {
+        "name": "Pop-Up Talent",
+        "jobs": 1
+      },
+      {
+        "name": "Kaynes",
+        "jobs": 1
+      },
+      {
+        "name": "Canoo",
+        "jobs": 1
+      },
+      {
+        "name": "Hays",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "fastapi",
+    "count": 4,
+    "sample_size": 171,
+    "pct": 2.3,
+    "top_companies": [
+      {
+        "name": "Morgan King Technology",
+        "jobs": 1
+      },
+      {
+        "name": "AuxHealth",
+        "jobs": 1
+      },
+      {
+        "name": "Canoo",
+        "jobs": 1
+      },
+      {
+        "name": "Hays",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "php",
+    "count": 4,
+    "sample_size": 171,
+    "pct": 2.3,
+    "top_companies": [
+      {
+        "name": "Cloudbeds",
+        "jobs": 1
+      },
+      {
+        "name": "Coates Group",
+        "jobs": 1
+      },
+      {
+        "name": "BVTech",
+        "jobs": 1
+      },
+      {
+        "name": "nQ Zebraworks",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "excel",
+    "count": 4,
+    "sample_size": 171,
+    "pct": 2.3,
+    "top_companies": [
+      {
+        "name": "Siri InfoSolutions Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Elevate Labs",
+        "jobs": 1
+      },
+      {
+        "name": "Walmart Global Tech",
+        "jobs": 1
+      },
+      {
+        "name": "Hadrian",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "django",
+    "count": 3,
+    "sample_size": 171,
+    "pct": 1.8,
+    "top_companies": [
+      {
+        "name": "Jobot",
+        "jobs": 1
+      },
+      {
+        "name": "Wingz",
+        "jobs": 1
+      },
+      {
+        "name": "Kaynes",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "llm_apis",
+    "count": 3,
+    "sample_size": 171,
+    "pct": 1.8,
+    "top_companies": [
+      {
+        "name": "AuxHealth",
+        "jobs": 1
+      },
+      {
+        "name": "Formation Bio",
+        "jobs": 1
+      },
+      {
+        "name": "Thomson Reuters",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "express",
+    "count": 2,
+    "sample_size": 171,
+    "pct": 1.2,
+    "top_companies": [
+      {
+        "name": "Webflow",
+        "jobs": 1
+      },
+      {
+        "name": "Diamondpick",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "nestjs",
+    "count": 2,
+    "sample_size": 171,
+    "pct": 1.2,
+    "top_companies": [
+      {
+        "name": "Novaprime",
+        "jobs": 1
+      },
+      {
+        "name": "Coates Group",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "laravel",
+    "count": 2,
+    "sample_size": 171,
+    "pct": 1.2,
+    "top_companies": [
+      {
+        "name": "Cloudbeds",
+        "jobs": 1
+      },
+      {
+        "name": "nQ Zebraworks",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "data_visualization",
+    "count": 2,
+    "sample_size": 171,
+    "pct": 1.2,
+    "top_companies": [
+      {
+        "name": "Esri",
+        "jobs": 1
+      },
+      {
+        "name": "Beacon Hill Staffing Group",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "statistics",
+    "count": 2,
+    "sample_size": 171,
+    "pct": 1.2,
+    "top_companies": [
+      {
+        "name": "Awardco",
+        "jobs": 1
+      },
+      {
+        "name": "Abnormal Security",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "figma",
+    "count": 2,
+    "sample_size": 171,
+    "pct": 1.2,
+    "top_companies": [
+      {
+        "name": "Aerodome",
+        "jobs": 1
+      },
+      {
+        "name": "Simpler Trading",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "nextjs",
+    "count": 1,
+    "sample_size": 171,
+    "pct": 0.6,
+    "top_companies": [
+      {
+        "name": "Simpler Trading",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "vue",
+    "count": 1,
+    "sample_size": 171,
+    "pct": 0.6,
+    "top_companies": [
+      {
+        "name": "BlackRock",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "tailwind",
+    "count": 1,
+    "sample_size": 171,
+    "pct": 0.6,
+    "top_companies": [
+      {
+        "name": "Aerodome",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "power_bi",
+    "count": 1,
+    "sample_size": 171,
+    "pct": 0.6,
+    "top_companies": [
+      {
+        "name": "Beacon Hill Staffing Group",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "backend",
+    "period": "2026-10-04",
+    "skill_id": "r_language",
+    "count": 1,
+    "sample_size": 171,
+    "pct": 0.6,
+    "top_companies": [
+      {
+        "name": "TEKsystems",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "sql",
+    "count": 334,
+    "sample_size": 857,
+    "pct": 39.0,
+    "top_companies": [
+      {
+        "name": "Talentify.io",
+        "jobs": 6
+      },
+      {
+        "name": "ICE",
+        "jobs": 6
+      },
+      {
+        "name": "Insight Global",
+        "jobs": 5
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 5
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "excel",
+    "count": 296,
+    "sample_size": 857,
+    "pct": 34.5,
+    "top_companies": [
+      {
+        "name": "Fidelity Investments",
+        "jobs": 8
+      },
+      {
+        "name": "HTC Global Services",
+        "jobs": 5
+      },
+      {
+        "name": "ICE",
+        "jobs": 5
+      },
+      {
+        "name": "DATAECONOMY",
+        "jobs": 3
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "agile",
+    "count": 230,
+    "sample_size": 857,
+    "pct": 26.8,
+    "top_companies": [
+      {
+        "name": "HTC Global Services",
+        "jobs": 4
+      },
+      {
+        "name": "EPITEC",
+        "jobs": 3
+      },
+      {
+        "name": "V-Soft Consulting Group, Inc.",
+        "jobs": 2
+      },
+      {
+        "name": "Experis",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "power_bi",
+    "count": 136,
+    "sample_size": 857,
+    "pct": 15.9,
+    "top_companies": [
+      {
+        "name": "Fidelity Investments",
+        "jobs": 8
+      },
+      {
+        "name": "Talentify.io",
+        "jobs": 4
+      },
+      {
+        "name": "Experis",
+        "jobs": 2
+      },
+      {
+        "name": "Lennar",
+        "jobs": 2
+      },
+      {
+        "name": "Insight Global",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "python",
+    "count": 128,
+    "sample_size": 857,
+    "pct": 14.9,
+    "top_companies": [
+      {
+        "name": "Lightcast",
+        "jobs": 3
+      },
+      {
+        "name": "DataAnnotation",
+        "jobs": 2
+      },
+      {
+        "name": "Flexton Inc.",
+        "jobs": 2
+      },
+      {
+        "name": "Dice",
+        "jobs": 2
+      },
+      {
+        "name": "ICE",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "tableau",
+    "count": 121,
+    "sample_size": 857,
+    "pct": 14.1,
+    "top_companies": [
+      {
+        "name": "Amazon",
+        "jobs": 3
+      },
+      {
+        "name": "Talentify.io",
+        "jobs": 3
+      },
+      {
+        "name": "Catapult Solutions Group",
+        "jobs": 2
+      },
+      {
+        "name": "Alpha Net",
+        "jobs": 2
+      },
+      {
+        "name": "Akkodis",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "statistics",
+    "count": 109,
+    "sample_size": 857,
+    "pct": 12.7,
+    "top_companies": [
+      {
+        "name": "FedEx Logistics",
+        "jobs": 3
+      },
+      {
+        "name": "Talentify.io",
+        "jobs": 2
+      },
+      {
+        "name": "Catapult Solutions Group",
+        "jobs": 2
+      },
+      {
+        "name": "DHL Supply Chain",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "jira",
+    "count": 94,
+    "sample_size": 857,
+    "pct": 11.0,
+    "top_companies": [
+      {
+        "name": "Tata Consultancy Services",
+        "jobs": 3
+      },
+      {
+        "name": "Talent Groups",
+        "jobs": 3
+      },
+      {
+        "name": "Akkodis",
+        "jobs": 2
+      },
+      {
+        "name": "Wells Fargo",
+        "jobs": 2
+      },
+      {
+        "name": "Perfict",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "data_visualization",
+    "count": 88,
+    "sample_size": 857,
+    "pct": 10.3,
+    "top_companies": [
+      {
+        "name": "Fidelity Investments",
+        "jobs": 5
+      },
+      {
+        "name": "Talentify.io",
+        "jobs": 3
+      },
+      {
+        "name": "bp",
+        "jobs": 2
+      },
+      {
+        "name": "DHL Supply Chain",
+        "jobs": 2
+      },
+      {
+        "name": "Tenazx Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "r_language",
+    "count": 67,
+    "sample_size": 857,
+    "pct": 7.8,
+    "top_companies": [
+      {
+        "name": "Wells Fargo",
+        "jobs": 3
+      },
+      {
+        "name": "The Johns Hopkins University",
+        "jobs": 2
+      },
+      {
+        "name": "Tenazx Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Stanford University",
+        "jobs": 1
+      },
+      {
+        "name": "Oracle",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "aws",
+    "count": 48,
+    "sample_size": 857,
+    "pct": 5.6,
+    "top_companies": [
+      {
+        "name": "Fidelity Investments",
+        "jobs": 3
+      },
+      {
+        "name": "Experis",
+        "jobs": 2
+      },
+      {
+        "name": "Annalect",
+        "jobs": 2
+      },
+      {
+        "name": "Dice",
+        "jobs": 2
+      },
+      {
+        "name": "Talentify.io",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "machine_learning",
+    "count": 48,
+    "sample_size": 857,
+    "pct": 5.6,
+    "top_companies": [
+      {
+        "name": "Lightcast",
+        "jobs": 3
+      },
+      {
+        "name": "TELUS International AI Data Solutions",
+        "jobs": 2
+      },
+      {
+        "name": "Experis",
+        "jobs": 2
+      },
+      {
+        "name": "Acro Service Corp",
+        "jobs": 1
+      },
+      {
+        "name": "Stanford University",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "azure",
+    "count": 46,
+    "sample_size": 857,
+    "pct": 5.4,
+    "top_companies": [
+      {
+        "name": "Fidelity Investments",
+        "jobs": 5
+      },
+      {
+        "name": "Experis",
+        "jobs": 2
+      },
+      {
+        "name": "Perfict",
+        "jobs": 2
+      },
+      {
+        "name": "Annalect",
+        "jobs": 2
+      },
+      {
+        "name": "HTC Global Services",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "etl",
+    "count": 42,
+    "sample_size": 857,
+    "pct": 4.9,
+    "top_companies": [
+      {
+        "name": "Amazon",
+        "jobs": 2
+      },
+      {
+        "name": "Talentify.io",
+        "jobs": 2
+      },
+      {
+        "name": "ZealTech",
+        "jobs": 1
+      },
+      {
+        "name": "Oracle",
+        "jobs": 1
+      },
+      {
+        "name": "CGI",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "rest_api",
+    "count": 19,
+    "sample_size": 857,
+    "pct": 2.2,
+    "top_companies": [
+      {
+        "name": "TekWissen \u00ae",
+        "jobs": 2
+      },
+      {
+        "name": "Augment Jobs",
+        "jobs": 1
+      },
+      {
+        "name": "Rural City of Wangaratta",
+        "jobs": 1
+      },
+      {
+        "name": "Software Technology Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "Potpourri Group",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "gcp",
+    "count": 19,
+    "sample_size": 857,
+    "pct": 2.2,
+    "top_companies": [
+      {
+        "name": "Annalect",
+        "jobs": 2
+      },
+      {
+        "name": "The Judge Group",
+        "jobs": 1
+      },
+      {
+        "name": "HireTalent - Diversity Staffing & Recruiting Firm",
+        "jobs": 1
+      },
+      {
+        "name": "HCA Healthcare",
+        "jobs": 1
+      },
+      {
+        "name": "Parallel",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "html",
+    "count": 18,
+    "sample_size": 857,
+    "pct": 2.1,
+    "top_companies": [
+      {
+        "name": "SCA Health",
+        "jobs": 2
+      },
+      {
+        "name": "Deloitte",
+        "jobs": 2
+      },
+      {
+        "name": "DataAnnotation",
+        "jobs": 2
+      },
+      {
+        "name": "E-IT",
+        "jobs": 1
+      },
+      {
+        "name": "Software Technology Inc.",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "javascript",
+    "count": 18,
+    "sample_size": 857,
+    "pct": 2.1,
+    "top_companies": [
+      {
+        "name": "DataAnnotation",
+        "jobs": 2
+      },
+      {
+        "name": "Quantum Vision",
+        "jobs": 1
+      },
+      {
+        "name": "TalentBridge",
+        "jobs": 1
+      },
+      {
+        "name": "One IT Corp",
+        "jobs": 1
+      },
+      {
+        "name": "Contech Systems Inc.",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "java",
+    "count": 18,
+    "sample_size": 857,
+    "pct": 2.1,
+    "top_companies": [
+      {
+        "name": "BigBear.ai",
+        "jobs": 2
+      },
+      {
+        "name": "Quantum Vision",
+        "jobs": 1
+      },
+      {
+        "name": "One IT Corp",
+        "jobs": 1
+      },
+      {
+        "name": "Lennar",
+        "jobs": 1
+      },
+      {
+        "name": "Ascendion",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "figma",
+    "count": 15,
+    "sample_size": 857,
+    "pct": 1.8,
+    "top_companies": [
+      {
+        "name": "Wells Fargo",
+        "jobs": 2
+      },
+      {
+        "name": "Sunrise Systems, Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "Aequor",
+        "jobs": 1
+      },
+      {
+        "name": "Primary Talent Partners",
+        "jobs": 1
+      },
+      {
+        "name": "TSR Consulting Services, Inc.",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "typescript",
+    "count": 9,
+    "sample_size": 857,
+    "pct": 1.1,
+    "top_companies": [
+      {
+        "name": "TSR Consulting Services, Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "MITRE",
+        "jobs": 1
+      },
+      {
+        "name": "Hirexa Solutions",
+        "jobs": 1
+      },
+      {
+        "name": "SMX",
+        "jobs": 1
+      },
+      {
+        "name": "Xoriant",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "google_sheets",
+    "count": 8,
+    "sample_size": 857,
+    "pct": 0.9,
+    "top_companies": [
+      {
+        "name": "Ocado Group",
+        "jobs": 1
+      },
+      {
+        "name": "First Tek, Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "Cypress HCM",
+        "jobs": 1
+      },
+      {
+        "name": "Tech Mahindra Business Process Services",
+        "jobs": 1
+      },
+      {
+        "name": "Emeritus",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "ci_cd",
+    "count": 7,
+    "sample_size": 857,
+    "pct": 0.8,
+    "top_companies": [
+      {
+        "name": "One IT Corp",
+        "jobs": 1
+      },
+      {
+        "name": "TekInvaderZ",
+        "jobs": 1
+      },
+      {
+        "name": "IT Automation LLC",
+        "jobs": 1
+      },
+      {
+        "name": "InvestM Technology LLC",
+        "jobs": 1
+      },
+      {
+        "name": "Best High Technologies LLC (BHT)",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "angular",
+    "count": 5,
+    "sample_size": 857,
+    "pct": 0.6,
+    "top_companies": [
+      {
+        "name": "Quantum Vision",
+        "jobs": 1
+      },
+      {
+        "name": "One IT Corp",
+        "jobs": 1
+      },
+      {
+        "name": "TSR Consulting Services, Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "Xoriant",
+        "jobs": 1
+      },
+      {
+        "name": "Dice",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "postgresql",
+    "count": 5,
+    "sample_size": 857,
+    "pct": 0.6,
+    "top_companies": [
+      {
+        "name": "TekInvaderZ",
+        "jobs": 1
+      },
+      {
+        "name": "i2i Population Health",
+        "jobs": 1
+      },
+      {
+        "name": "Talent Groups",
+        "jobs": 1
+      },
+      {
+        "name": "ClarisHealth",
+        "jobs": 1
+      },
+      {
+        "name": "Unified Women's Healthcare",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "mysql",
+    "count": 5,
+    "sample_size": 857,
+    "pct": 0.6,
+    "top_companies": [
+      {
+        "name": "FedEx Logistics",
+        "jobs": 1
+      },
+      {
+        "name": "Oracle",
+        "jobs": 1
+      },
+      {
+        "name": "i2i Population Health",
+        "jobs": 1
+      },
+      {
+        "name": "Talent Groups",
+        "jobs": 1
+      },
+      {
+        "name": "ICE",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "docker",
+    "count": 5,
+    "sample_size": 857,
+    "pct": 0.6,
+    "top_companies": [
+      {
+        "name": "Experis",
+        "jobs": 1
+      },
+      {
+        "name": "TekInvaderZ",
+        "jobs": 1
+      },
+      {
+        "name": "SMX",
+        "jobs": 1
+      },
+      {
+        "name": "Best High Technologies LLC (BHT)",
+        "jobs": 1
+      },
+      {
+        "name": "Coders Data",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "kubernetes",
+    "count": 5,
+    "sample_size": 857,
+    "pct": 0.6,
+    "top_companies": [
+      {
+        "name": "Experis",
+        "jobs": 1
+      },
+      {
+        "name": "TekInvaderZ",
+        "jobs": 1
+      },
+      {
+        "name": "SMX",
+        "jobs": 1
+      },
+      {
+        "name": "Best High Technologies LLC (BHT)",
+        "jobs": 1
+      },
+      {
+        "name": "Veeam Software",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "git",
+    "count": 5,
+    "sample_size": 857,
+    "pct": 0.6,
+    "top_companies": [
+      {
+        "name": "TekInvaderZ",
+        "jobs": 1
+      },
+      {
+        "name": "MITRE",
+        "jobs": 1
+      },
+      {
+        "name": "i2i Population Health",
+        "jobs": 1
+      },
+      {
+        "name": "Paramount Software Solutions, Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Northwestern Mutual",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "css",
+    "count": 3,
+    "sample_size": 857,
+    "pct": 0.4,
+    "top_companies": [
+      {
+        "name": "E-IT",
+        "jobs": 1
+      },
+      {
+        "name": "Paramount Software Solutions, Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Central Point Partners",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "mongodb",
+    "count": 3,
+    "sample_size": 857,
+    "pct": 0.4,
+    "top_companies": [
+      {
+        "name": "SMX",
+        "jobs": 1
+      },
+      {
+        "name": "ClarisHealth",
+        "jobs": 1
+      },
+      {
+        "name": "SPECTRAFORCE",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "numpy",
+    "count": 3,
+    "sample_size": 857,
+    "pct": 0.4,
+    "top_companies": [
+      {
+        "name": "Quantum World Technologies Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "MITRE",
+        "jobs": 1
+      },
+      {
+        "name": "Cisco Meraki",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "spring_boot",
+    "count": 2,
+    "sample_size": 857,
+    "pct": 0.2,
+    "top_companies": [
+      {
+        "name": "Paramount Software Solutions, Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Coders Data",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "microservices",
+    "count": 2,
+    "sample_size": 857,
+    "pct": 0.2,
+    "top_companies": [
+      {
+        "name": "ApTask",
+        "jobs": 1
+      },
+      {
+        "name": "Coders Data",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "llm_apis",
+    "count": 2,
+    "sample_size": 857,
+    "pct": 0.2,
+    "top_companies": [
+      {
+        "name": "Outlier",
+        "jobs": 1
+      },
+      {
+        "name": "Integration International Inc.",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "pandas",
+    "count": 2,
+    "sample_size": 857,
+    "pct": 0.2,
+    "top_companies": [
+      {
+        "name": "MITRE",
+        "jobs": 1
+      },
+      {
+        "name": "Cisco Meraki",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "postman",
+    "count": 2,
+    "sample_size": 857,
+    "pct": 0.2,
+    "top_companies": [
+      {
+        "name": "Software Technology Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "Zywave",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "sass",
+    "count": 1,
+    "sample_size": 857,
+    "pct": 0.1,
+    "top_companies": [
+      {
+        "name": "Paramount Software Solutions, Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "nodejs",
+    "count": 1,
+    "sample_size": 857,
+    "pct": 0.1,
+    "top_companies": [
+      {
+        "name": "One IT Corp",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "redis",
+    "count": 1,
+    "sample_size": 857,
+    "pct": 0.1,
+    "top_companies": [
+      {
+        "name": "Paramount Software Solutions, Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "data_analyst",
+    "period": "2026-10-04",
+    "skill_id": "linux",
+    "count": 1,
+    "sample_size": 857,
+    "pct": 0.1,
+    "top_companies": [
+      {
+        "name": "One IT Corp",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "javascript",
+    "count": 122,
+    "sample_size": 197,
+    "pct": 61.9,
+    "top_companies": [
+      {
+        "name": "Dice",
+        "jobs": 4
+      },
+      {
+        "name": "TekValue IT Solutions",
+        "jobs": 3
+      },
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "react",
+    "count": 112,
+    "sample_size": 197,
+    "pct": 56.9,
+    "top_companies": [
+      {
+        "name": "TekValue IT Solutions",
+        "jobs": 3
+      },
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "TEKsystems",
+        "jobs": 2
+      },
+      {
+        "name": "WunderLand Group",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "html",
+    "count": 91,
+    "sample_size": 197,
+    "pct": 46.2,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "Dice",
+        "jobs": 3
+      },
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "css",
+    "count": 86,
+    "sample_size": 197,
+    "pct": 43.7,
+    "top_companies": [
+      {
+        "name": "TekValue IT Solutions",
+        "jobs": 3
+      },
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "Dice",
+        "jobs": 3
+      },
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "angular",
+    "count": 63,
+    "sample_size": 197,
+    "pct": 32.0,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 2
+      },
+      {
+        "name": "SoftSages Technology",
+        "jobs": 2
+      },
+      {
+        "name": "Dice",
+        "jobs": 2
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "agile",
+    "count": 55,
+    "sample_size": 197,
+    "pct": 27.9,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "SoftSages Technology",
+        "jobs": 2
+      },
+      {
+        "name": "Wanderboat AI",
+        "jobs": 1
+      },
+      {
+        "name": "eHire",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "typescript",
+    "count": 50,
+    "sample_size": 197,
+    "pct": 25.4,
+    "top_companies": [
+      {
+        "name": "TekValue IT Solutions",
+        "jobs": 3
+      },
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "jobs": 2
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "rest_api",
+    "count": 50,
+    "sample_size": 197,
+    "pct": 25.4,
+    "top_companies": [
+      {
+        "name": "TekValue IT Solutions",
+        "jobs": 3
+      },
+      {
+        "name": "Robert Half",
+        "jobs": 2
+      },
+      {
+        "name": "eHire",
+        "jobs": 1
+      },
+      {
+        "name": "RecruitInflux",
+        "jobs": 1
+      },
+      {
+        "name": "myGwork - LGBTQ+ Business Community",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "git",
+    "count": 34,
+    "sample_size": 197,
+    "pct": 17.3,
+    "top_companies": [
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "Prepto",
+        "jobs": 1
+      },
+      {
+        "name": "eHire",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "Software Technology Group",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "aws",
+    "count": 32,
+    "sample_size": 197,
+    "pct": 16.2,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "jobs": 2
+      },
+      {
+        "name": "myGwork - LGBTQ+ Business Community",
+        "jobs": 1
+      },
+      {
+        "name": "TEKsystems",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "nodejs",
+    "count": 30,
+    "sample_size": 197,
+    "pct": 15.2,
+    "top_companies": [
+      {
+        "name": "TekValue IT Solutions",
+        "jobs": 3
+      },
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "Dice",
+        "jobs": 2
+      },
+      {
+        "name": "Robert Half",
+        "jobs": 2
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "ci_cd",
+    "count": 26,
+    "sample_size": 197,
+    "pct": 13.2,
+    "top_companies": [
+      {
+        "name": "TekValue IT Solutions",
+        "jobs": 3
+      },
+      {
+        "name": "myGwork - LGBTQ+ Business Community",
+        "jobs": 1
+      },
+      {
+        "name": "TEKsystems",
+        "jobs": 1
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "Software Technology Group",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "java",
+    "count": 24,
+    "sample_size": 197,
+    "pct": 12.2,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "RecruitInflux",
+        "jobs": 1
+      },
+      {
+        "name": "WeTravel",
+        "jobs": 1
+      },
+      {
+        "name": "Young Living Essential Oils",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "redux",
+    "count": 23,
+    "sample_size": 197,
+    "pct": 11.7,
+    "top_companies": [
+      {
+        "name": "TekValue IT Solutions",
+        "jobs": 3
+      },
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "Robert Half",
+        "jobs": 2
+      },
+      {
+        "name": "Prepto",
+        "jobs": 1
+      },
+      {
+        "name": "eHire",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "azure",
+    "count": 22,
+    "sample_size": 197,
+    "pct": 11.2,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "Aquent Talent",
+        "jobs": 1
+      },
+      {
+        "name": "TEKsystems",
+        "jobs": 1
+      },
+      {
+        "name": "Us Technology International Private Limited",
+        "jobs": 1
+      },
+      {
+        "name": "MindSource",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "sql",
+    "count": 20,
+    "sample_size": 197,
+    "pct": 10.2,
+    "top_companies": [
+      {
+        "name": "DataAnnotation",
+        "jobs": 2
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "TEKsystems",
+        "jobs": 1
+      },
+      {
+        "name": "FutureWork Systems LLC",
+        "jobs": 1
+      },
+      {
+        "name": "Nordic Naturals",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "jest",
+    "count": 18,
+    "sample_size": 197,
+    "pct": 9.1,
+    "top_companies": [
+      {
+        "name": "TekValue IT Solutions",
+        "jobs": 3
+      },
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "RecruitInflux",
+        "jobs": 1
+      },
+      {
+        "name": "Software Technology Group",
+        "jobs": 1
+      },
+      {
+        "name": "Codebase Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "webpack",
+    "count": 17,
+    "sample_size": 197,
+    "pct": 8.6,
+    "top_companies": [
+      {
+        "name": "WunderLand Group",
+        "jobs": 2
+      },
+      {
+        "name": "Robert Half",
+        "jobs": 2
+      },
+      {
+        "name": "eHire",
+        "jobs": 1
+      },
+      {
+        "name": "Software Technology Group",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "sass",
+    "count": 15,
+    "sample_size": 197,
+    "pct": 7.6,
+    "top_companies": [
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "WeTravel",
+        "jobs": 1
+      },
+      {
+        "name": "The Walt Disney Company",
+        "jobs": 1
+      },
+      {
+        "name": "Codebase Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "vue",
+    "count": 14,
+    "sample_size": 197,
+    "pct": 7.1,
+    "top_companies": [
+      {
+        "name": "WeTravel",
+        "jobs": 1
+      },
+      {
+        "name": "Software Technology Group",
+        "jobs": 1
+      },
+      {
+        "name": "MindSource",
+        "jobs": 1
+      },
+      {
+        "name": "OKAYA INFOCOM",
+        "jobs": 1
+      },
+      {
+        "name": "Galaxy i technologies Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "python",
+    "count": 14,
+    "sample_size": 197,
+    "pct": 7.1,
+    "top_companies": [
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "DataAnnotation",
+        "jobs": 2
+      },
+      {
+        "name": "WeTravel",
+        "jobs": 1
+      },
+      {
+        "name": "Fern (YC W23)",
+        "jobs": 1
+      },
+      {
+        "name": "Contrast Security",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "nextjs",
+    "count": 13,
+    "sample_size": 197,
+    "pct": 6.6,
+    "top_companies": [
+      {
+        "name": "Groltech",
+        "jobs": 1
+      },
+      {
+        "name": "Aditi Consulting",
+        "jobs": 1
+      },
+      {
+        "name": "ATC",
+        "jobs": 1
+      },
+      {
+        "name": "Nitrogen",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "bootstrap",
+    "count": 13,
+    "sample_size": 197,
+    "pct": 6.6,
+    "top_companies": [
+      {
+        "name": "Dice",
+        "jobs": 2
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "Aha!",
+        "jobs": 1
+      },
+      {
+        "name": "Bryt Designs",
+        "jobs": 1
+      },
+      {
+        "name": "letsremotify",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "figma",
+    "count": 13,
+    "sample_size": 197,
+    "pct": 6.6,
+    "top_companies": [
+      {
+        "name": "WunderLand Group",
+        "jobs": 2
+      },
+      {
+        "name": "letsremotify",
+        "jobs": 1
+      },
+      {
+        "name": "Both&Yes",
+        "jobs": 1
+      },
+      {
+        "name": "Crown Equipment Corporation",
+        "jobs": 1
+      },
+      {
+        "name": "Pop-Up Talent",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "spring_boot",
+    "count": 10,
+    "sample_size": 197,
+    "pct": 5.1,
+    "top_companies": [
+      {
+        "name": "Burlington Stores, Inc.",
+        "jobs": 3
+      },
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "FFF Enterprises",
+        "jobs": 1
+      },
+      {
+        "name": "Akkodis",
+        "jobs": 1
+      },
+      {
+        "name": "Contrast Security",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "microservices",
+    "count": 10,
+    "sample_size": 197,
+    "pct": 5.1,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "WeTravel",
+        "jobs": 1
+      },
+      {
+        "name": "World Wide Technology",
+        "jobs": 1
+      },
+      {
+        "name": "Nitrogen",
+        "jobs": 1
+      },
+      {
+        "name": "Fern (YC W23)",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "kubernetes",
+    "count": 10,
+    "sample_size": 197,
+    "pct": 5.1,
+    "top_companies": [
+      {
+        "name": "myGwork - LGBTQ+ Business Community",
+        "jobs": 1
+      },
+      {
+        "name": "TEKsystems",
+        "jobs": 1
+      },
+      {
+        "name": "WeTravel",
+        "jobs": 1
+      },
+      {
+        "name": "MindSource",
+        "jobs": 1
+      },
+      {
+        "name": "Codebase Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "gcp",
+    "count": 10,
+    "sample_size": 197,
+    "pct": 5.1,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "WeTravel",
+        "jobs": 1
+      },
+      {
+        "name": "MindSource",
+        "jobs": 1
+      },
+      {
+        "name": "Codebase Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Both&Yes",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "postgresql",
+    "count": 9,
+    "sample_size": 197,
+    "pct": 4.6,
+    "top_companies": [
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "WeTravel",
+        "jobs": 1
+      },
+      {
+        "name": "Aha!",
+        "jobs": 1
+      },
+      {
+        "name": "Fern (YC W23)",
+        "jobs": 1
+      },
+      {
+        "name": "Experis",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "jira",
+    "count": 9,
+    "sample_size": 197,
+    "pct": 4.6,
+    "top_companies": [
+      {
+        "name": "WaferWire Cloud Technologies",
+        "jobs": 2
+      },
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "Young Living Essential Oils",
+        "jobs": 1
+      },
+      {
+        "name": "Optomi",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "docker",
+    "count": 7,
+    "sample_size": 197,
+    "pct": 3.6,
+    "top_companies": [
+      {
+        "name": "eHire",
+        "jobs": 1
+      },
+      {
+        "name": "myGwork - LGBTQ+ Business Community",
+        "jobs": 1
+      },
+      {
+        "name": "TEKsystems",
+        "jobs": 1
+      },
+      {
+        "name": "WeTravel",
+        "jobs": 1
+      },
+      {
+        "name": "Codebase Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "php",
+    "count": 6,
+    "sample_size": 197,
+    "pct": 3.0,
+    "top_companies": [
+      {
+        "name": "FutureWork Systems LLC",
+        "jobs": 1
+      },
+      {
+        "name": "Esteemed Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "Bryt Designs",
+        "jobs": 1
+      },
+      {
+        "name": "University of Illinois Urbana-Champaign",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "ruby_on_rails",
+    "count": 6,
+    "sample_size": 197,
+    "pct": 3.0,
+    "top_companies": [
+      {
+        "name": "Aha!",
+        "jobs": 1
+      },
+      {
+        "name": "Nivid Technologies",
+        "jobs": 1
+      },
+      {
+        "name": "Design Pickle",
+        "jobs": 1
+      },
+      {
+        "name": "Nous Infosystems",
+        "jobs": 1
+      },
+      {
+        "name": "Veracity Software Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "graphql",
+    "count": 6,
+    "sample_size": 197,
+    "pct": 3.0,
+    "top_companies": [
+      {
+        "name": "Nitrogen",
+        "jobs": 1
+      },
+      {
+        "name": "Codebase Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Bryt Designs",
+        "jobs": 1
+      },
+      {
+        "name": "Palo Alto Networks",
+        "jobs": 1
+      },
+      {
+        "name": "Adobe",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "mongodb",
+    "count": 6,
+    "sample_size": 197,
+    "pct": 3.0,
+    "top_companies": [
+      {
+        "name": "WeTravel",
+        "jobs": 1
+      },
+      {
+        "name": "Us Technology International Private Limited",
+        "jobs": 1
+      },
+      {
+        "name": "Optomi",
+        "jobs": 1
+      },
+      {
+        "name": "Experis",
+        "jobs": 1
+      },
+      {
+        "name": "Palo Alto Networks",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "tailwind",
+    "count": 4,
+    "sample_size": 197,
+    "pct": 2.0,
+    "top_companies": [
+      {
+        "name": "Groltech",
+        "jobs": 1
+      },
+      {
+        "name": "MindSource",
+        "jobs": 1
+      },
+      {
+        "name": "Bryt Designs",
+        "jobs": 1
+      },
+      {
+        "name": "Design Pickle",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "excel",
+    "count": 4,
+    "sample_size": 197,
+    "pct": 2.0,
+    "top_companies": [
+      {
+        "name": "Pop-Up Talent",
+        "jobs": 1
+      },
+      {
+        "name": "RTeams",
+        "jobs": 1
+      },
+      {
+        "name": "University of Illinois Urbana-Champaign",
+        "jobs": 1
+      },
+      {
+        "name": "Better Debt Solutions",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "django",
+    "count": 3,
+    "sample_size": 197,
+    "pct": 1.5,
+    "top_companies": [
+      {
+        "name": "Cignitix Global",
+        "jobs": 1
+      },
+      {
+        "name": "Insight Global",
+        "jobs": 1
+      },
+      {
+        "name": "Carta",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "mysql",
+    "count": 3,
+    "sample_size": 197,
+    "pct": 1.5,
+    "top_companies": [
+      {
+        "name": "HIRECLOUT",
+        "jobs": 1
+      },
+      {
+        "name": "WeTravel",
+        "jobs": 1
+      },
+      {
+        "name": "FutureWork Systems LLC",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "express",
+    "count": 2,
+    "sample_size": 197,
+    "pct": 1.0,
+    "top_companies": [
+      {
+        "name": "Design Pickle",
+        "jobs": 1
+      },
+      {
+        "name": "Dice",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "flask",
+    "count": 2,
+    "sample_size": 197,
+    "pct": 1.0,
+    "top_companies": [
+      {
+        "name": "Contrast Security",
+        "jobs": 1
+      },
+      {
+        "name": "Better Debt Solutions",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "redis",
+    "count": 2,
+    "sample_size": 197,
+    "pct": 1.0,
+    "top_companies": [
+      {
+        "name": "Aha!",
+        "jobs": 1
+      },
+      {
+        "name": "Carta",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "linux",
+    "count": 2,
+    "sample_size": 197,
+    "pct": 1.0,
+    "top_companies": [
+      {
+        "name": "myGwork - LGBTQ+ Business Community",
+        "jobs": 1
+      },
+      {
+        "name": "Acres",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "terraform",
+    "count": 2,
+    "sample_size": 197,
+    "pct": 1.0,
+    "top_companies": [
+      {
+        "name": "Carta",
+        "jobs": 1
+      },
+      {
+        "name": "Better Debt Solutions",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "machine_learning",
+    "count": 2,
+    "sample_size": 197,
+    "pct": 1.0,
+    "top_companies": [
+      {
+        "name": "Roblox",
+        "jobs": 1
+      },
+      {
+        "name": "Cignitix Global",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "power_bi",
+    "count": 2,
+    "sample_size": 197,
+    "pct": 1.0,
+    "top_companies": [
+      {
+        "name": "Crown Equipment Corporation",
+        "jobs": 1
+      },
+      {
+        "name": "PlanStreet Inc.",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "postman",
+    "count": 2,
+    "sample_size": 197,
+    "pct": 1.0,
+    "top_companies": [
+      {
+        "name": "Palo Alto Networks",
+        "jobs": 1
+      },
+      {
+        "name": "Airbyte",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "vite",
+    "count": 1,
+    "sample_size": 197,
+    "pct": 0.5,
+    "top_companies": [
+      {
+        "name": "MindSource",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "fastapi",
+    "count": 1,
+    "sample_size": 197,
+    "pct": 0.5,
+    "top_companies": [
+      {
+        "name": "Fern (YC W23)",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "laravel",
+    "count": 1,
+    "sample_size": 197,
+    "pct": 0.5,
+    "top_companies": []
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "data_visualization",
+    "count": 1,
+    "sample_size": 197,
+    "pct": 0.5,
+    "top_companies": [
+      {
+        "name": "TurnCare\u2122",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "statistics",
+    "count": 1,
+    "sample_size": 197,
+    "pct": 0.5,
+    "top_companies": [
+      {
+        "name": "Roblox",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "frontend",
+    "period": "2026-10-04",
+    "skill_id": "etl",
+    "count": 1,
+    "sample_size": 197,
+    "pct": 0.5,
+    "top_companies": [
+      {
+        "name": "Amazon",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "javascript",
+    "count": 232,
+    "sample_size": 369,
+    "pct": 62.9,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 17
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 8
+      },
+      {
+        "name": "Dice",
+        "jobs": 4
+      },
+      {
+        "name": "Discover Financial Services",
+        "jobs": 3
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "agile",
+    "count": 188,
+    "sample_size": 369,
+    "pct": 50.9,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 17
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 9
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 4
+      },
+      {
+        "name": "Discover Financial Services",
+        "jobs": 4
+      },
+      {
+        "name": "Dice",
+        "jobs": 3
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "react",
+    "count": 186,
+    "sample_size": 369,
+    "pct": 50.4,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 5
+      },
+      {
+        "name": "Dice",
+        "jobs": 4
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 4
+      },
+      {
+        "name": "Discover Financial Services",
+        "jobs": 3
+      },
+      {
+        "name": "Motion Recruitment",
+        "jobs": 3
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "java",
+    "count": 183,
+    "sample_size": 369,
+    "pct": 49.6,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 15
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 10
+      },
+      {
+        "name": "Discover Financial Services",
+        "jobs": 7
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 3
+      },
+      {
+        "name": "BNY Mellon",
+        "jobs": 3
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "aws",
+    "count": 150,
+    "sample_size": 369,
+    "pct": 40.7,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 17
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 8
+      },
+      {
+        "name": "Discover Financial Services",
+        "jobs": 4
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 4
+      },
+      {
+        "name": "CGI",
+        "jobs": 3
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "sql",
+    "count": 137,
+    "sample_size": 369,
+    "pct": 37.1,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 17
+      },
+      {
+        "name": "Photon",
+        "jobs": 2
+      },
+      {
+        "name": "Dexian",
+        "jobs": 2
+      },
+      {
+        "name": "Cognizant",
+        "jobs": 2
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "angular",
+    "count": 127,
+    "sample_size": 369,
+    "pct": 34.4,
+    "top_companies": [
+      {
+        "name": "Apex Systems",
+        "jobs": 4
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 4
+      },
+      {
+        "name": "Capital One",
+        "jobs": 3
+      },
+      {
+        "name": "BNY Mellon",
+        "jobs": 3
+      },
+      {
+        "name": "CGI",
+        "jobs": 3
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "css",
+    "count": 113,
+    "sample_size": 369,
+    "pct": 30.6,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 15
+      },
+      {
+        "name": "Dice",
+        "jobs": 4
+      },
+      {
+        "name": "Everest Consultants, Inc.",
+        "jobs": 2
+      },
+      {
+        "name": "BNY Mellon",
+        "jobs": 2
+      },
+      {
+        "name": "Deloitte",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "ci_cd",
+    "count": 113,
+    "sample_size": 369,
+    "pct": 30.6,
+    "top_companies": [
+      {
+        "name": "Fidelity Investments",
+        "jobs": 10
+      },
+      {
+        "name": "Discover Financial Services",
+        "jobs": 6
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 4
+      },
+      {
+        "name": "Dice",
+        "jobs": 3
+      },
+      {
+        "name": "Eliassen Group",
+        "jobs": 3
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "html",
+    "count": 108,
+    "sample_size": 369,
+    "pct": 29.3,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 15
+      },
+      {
+        "name": "CGI",
+        "jobs": 3
+      },
+      {
+        "name": "Dice",
+        "jobs": 3
+      },
+      {
+        "name": "Everest Consultants, Inc.",
+        "jobs": 2
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "rest_api",
+    "count": 105,
+    "sample_size": 369,
+    "pct": 28.5,
+    "top_companies": [
+      {
+        "name": "Fidelity Investments",
+        "jobs": 7
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 3
+      },
+      {
+        "name": "Compunnel Inc.",
+        "jobs": 3
+      },
+      {
+        "name": "Pyramid Consulting, Inc",
+        "jobs": 2
+      },
+      {
+        "name": "Bemba",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "spring_boot",
+    "count": 104,
+    "sample_size": 369,
+    "pct": 28.2,
+    "top_companies": [
+      {
+        "name": "Fidelity Investments",
+        "jobs": 7
+      },
+      {
+        "name": "Discover Financial Services",
+        "jobs": 4
+      },
+      {
+        "name": "Capital One",
+        "jobs": 4
+      },
+      {
+        "name": "Synechron",
+        "jobs": 3
+      },
+      {
+        "name": "BNY Mellon",
+        "jobs": 3
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "typescript",
+    "count": 99,
+    "sample_size": 369,
+    "pct": 26.8,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 17
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 3
+      },
+      {
+        "name": "Dexian",
+        "jobs": 2
+      },
+      {
+        "name": "Adept",
+        "jobs": 2
+      },
+      {
+        "name": "Motion Recruitment",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "python",
+    "count": 99,
+    "sample_size": 369,
+    "pct": 26.8,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 17
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 4
+      },
+      {
+        "name": "Discover Financial Services",
+        "jobs": 3
+      },
+      {
+        "name": "Satyam Venture Engineering Services",
+        "jobs": 2
+      },
+      {
+        "name": "BNY Mellon",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "nodejs",
+    "count": 97,
+    "sample_size": 369,
+    "pct": 26.3,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 4
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 4
+      },
+      {
+        "name": "Dice",
+        "jobs": 3
+      },
+      {
+        "name": "CGI",
+        "jobs": 3
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "azure",
+    "count": 95,
+    "sample_size": 369,
+    "pct": 25.7,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 16
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 6
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 2
+      },
+      {
+        "name": "Gardner Resources Consulting, LLC",
+        "jobs": 2
+      },
+      {
+        "name": "Orange County Superior Court",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "microservices",
+    "count": 92,
+    "sample_size": 369,
+    "pct": 24.9,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 8
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 4
+      },
+      {
+        "name": "CGI",
+        "jobs": 3
+      },
+      {
+        "name": "Compunnel Inc.",
+        "jobs": 3
+      },
+      {
+        "name": "Discover Financial Services",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "docker",
+    "count": 80,
+    "sample_size": 369,
+    "pct": 21.7,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 17
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 5
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 3
+      },
+      {
+        "name": "BNY Mellon",
+        "jobs": 2
+      },
+      {
+        "name": "Deloitte",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "kubernetes",
+    "count": 75,
+    "sample_size": 369,
+    "pct": 20.3,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 17
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 6
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 3
+      },
+      {
+        "name": "Deloitte",
+        "jobs": 2
+      },
+      {
+        "name": "Gardner Resources Consulting, LLC",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "git",
+    "count": 66,
+    "sample_size": 369,
+    "pct": 17.9,
+    "top_companies": [
+      {
+        "name": "Discover Financial Services",
+        "jobs": 2
+      },
+      {
+        "name": "Fidelity Investments",
+        "jobs": 2
+      },
+      {
+        "name": "Dice",
+        "jobs": 2
+      },
+      {
+        "name": "Aorton Inc",
+        "jobs": 2
+      },
+      {
+        "name": "Bemba",
+        "jobs": 2
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "gcp",
+    "count": 50,
+    "sample_size": 369,
+    "pct": 13.6,
+    "top_companies": [
+      {
+        "name": "Capital One",
+        "jobs": 16
+      },
+      {
+        "name": "Gardner Resources Consulting, LLC",
+        "jobs": 2
+      },
+      {
+        "name": "SimplyApply",
+        "jobs": 2
+      },
+      {
+        "name": "Ideando Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "postgresql",
+    "count": 43,
+    "sample_size": 369,
+    "pct": 11.7,
+    "top_companies": [
+      {
+        "name": "Motion Recruitment",
+        "jobs": 2
+      },
+      {
+        "name": "Bemba",
+        "jobs": 2
+      },
+      {
+        "name": "Kohler Ventures",
+        "jobs": 2
+      },
+      {
+        "name": "Apex Systems",
+        "jobs": 2
+      },
+      {
+        "name": "Ideando Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "mysql",
+    "count": 37,
+    "sample_size": 369,
+    "pct": 10.0,
+    "top_companies": [
+      {
+        "name": "Bemba",
+        "jobs": 2
+      },
+      {
+        "name": "CACI International Inc",
+        "jobs": 2
+      },
+      {
+        "name": "Creatives On Call",
+        "jobs": 1
+      },
+      {
+        "name": "Gigster",
+        "jobs": 1
+      },
+      {
+        "name": "Carman Solutions Group",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "mongodb",
+    "count": 35,
+    "sample_size": 369,
+    "pct": 9.5,
+    "top_companies": [
+      {
+        "name": "Bemba",
+        "jobs": 2
+      },
+      {
+        "name": "Satyam Venture Engineering Services",
+        "jobs": 2
+      },
+      {
+        "name": "Ideando Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Foot Locker",
+        "jobs": 1
+      },
+      {
+        "name": "Gigster",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "machine_learning",
+    "count": 24,
+    "sample_size": 369,
+    "pct": 6.5,
+    "top_companies": [
+      {
+        "name": "Kohler Ventures",
+        "jobs": 2
+      },
+      {
+        "name": "Zoox",
+        "jobs": 2
+      },
+      {
+        "name": "Talentium",
+        "jobs": 1
+      },
+      {
+        "name": "Motion Recruitment",
+        "jobs": 1
+      },
+      {
+        "name": "Gigster",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "php",
+    "count": 23,
+    "sample_size": 369,
+    "pct": 6.2,
+    "top_companies": [
+      {
+        "name": "Dice",
+        "jobs": 2
+      },
+      {
+        "name": "Bemba",
+        "jobs": 2
+      },
+      {
+        "name": "Creatives On Call",
+        "jobs": 1
+      },
+      {
+        "name": "SGS Technologie",
+        "jobs": 1
+      },
+      {
+        "name": "The HRT Club",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "jira",
+    "count": 22,
+    "sample_size": 369,
+    "pct": 6.0,
+    "top_companies": [
+      {
+        "name": "Collabera",
+        "jobs": 1
+      },
+      {
+        "name": "Franklin Templeton",
+        "jobs": 1
+      },
+      {
+        "name": "Saransh Inc",
+        "jobs": 1
+      },
+      {
+        "name": "ConsultStaff",
+        "jobs": 1
+      },
+      {
+        "name": "BNY Mellon",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "linux",
+    "count": 21,
+    "sample_size": 369,
+    "pct": 5.7,
+    "top_companies": [
+      {
+        "name": "Fidelity Investments",
+        "jobs": 3
+      },
+      {
+        "name": "The Job Network",
+        "jobs": 1
+      },
+      {
+        "name": "TEKsystems",
+        "jobs": 1
+      },
+      {
+        "name": "AmberBox Gunshot Detection",
+        "jobs": 1
+      },
+      {
+        "name": "HYPR | The Identity Assurance Company",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "terraform",
+    "count": 19,
+    "sample_size": 369,
+    "pct": 5.1,
+    "top_companies": [
+      {
+        "name": "Deloitte",
+        "jobs": 2
+      },
+      {
+        "name": "CGI",
+        "jobs": 2
+      },
+      {
+        "name": "Piper Companies",
+        "jobs": 1
+      },
+      {
+        "name": "Outpay",
+        "jobs": 1
+      },
+      {
+        "name": "Cloudbeds",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "graphql",
+    "count": 18,
+    "sample_size": 369,
+    "pct": 4.9,
+    "top_companies": [
+      {
+        "name": "Bemba",
+        "jobs": 2
+      },
+      {
+        "name": "Capital One",
+        "jobs": 1
+      },
+      {
+        "name": "myGwork - LGBTQ+ Business Community",
+        "jobs": 1
+      },
+      {
+        "name": "Outpay",
+        "jobs": 1
+      },
+      {
+        "name": "ConsultStaff",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "vue",
+    "count": 15,
+    "sample_size": 369,
+    "pct": 4.1,
+    "top_companies": [
+      {
+        "name": "Photon",
+        "jobs": 1
+      },
+      {
+        "name": "Intello Group, Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "Creatives On Call",
+        "jobs": 1
+      },
+      {
+        "name": "Genpact",
+        "jobs": 1
+      },
+      {
+        "name": "PAR Government",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "django",
+    "count": 15,
+    "sample_size": 369,
+    "pct": 4.1,
+    "top_companies": [
+      {
+        "name": "Eliassen Group",
+        "jobs": 2
+      },
+      {
+        "name": "Synechron",
+        "jobs": 1
+      },
+      {
+        "name": "Foot Locker",
+        "jobs": 1
+      },
+      {
+        "name": "AmberBox Gunshot Detection",
+        "jobs": 1
+      },
+      {
+        "name": "Collabera",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "bootstrap",
+    "count": 13,
+    "sample_size": 369,
+    "pct": 3.5,
+    "top_companies": [
+      {
+        "name": "Orange County Superior Court",
+        "jobs": 2
+      },
+      {
+        "name": "CNA Search",
+        "jobs": 2
+      },
+      {
+        "name": "Gigster",
+        "jobs": 1
+      },
+      {
+        "name": "CBase Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Altea Healthcare",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "ruby_on_rails",
+    "count": 13,
+    "sample_size": 369,
+    "pct": 3.5,
+    "top_companies": [
+      {
+        "name": "VergeSense",
+        "jobs": 1
+      },
+      {
+        "name": "AmberBox Gunshot Detection",
+        "jobs": 1
+      },
+      {
+        "name": "PAR Government",
+        "jobs": 1
+      },
+      {
+        "name": "Teamware Solutions a division of Quantum Leap Consulting Pvt. Ltd",
+        "jobs": 1
+      },
+      {
+        "name": "ServiceCore",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "elasticsearch",
+    "count": 13,
+    "sample_size": 369,
+    "pct": 3.5,
+    "top_companies": [
+      {
+        "name": "Fidelity Investments",
+        "jobs": 3
+      },
+      {
+        "name": "Bemba",
+        "jobs": 2
+      },
+      {
+        "name": "CBase Inc",
+        "jobs": 1
+      },
+      {
+        "name": "BNY Mellon",
+        "jobs": 1
+      },
+      {
+        "name": "Deloitte",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "redux",
+    "count": 12,
+    "sample_size": 369,
+    "pct": 3.3,
+    "top_companies": [
+      {
+        "name": "Aorton Inc",
+        "jobs": 2
+      },
+      {
+        "name": "Miracle Software Systems, Inc",
+        "jobs": 1
+      },
+      {
+        "name": "myGwork - LGBTQ+ Business Community",
+        "jobs": 1
+      },
+      {
+        "name": "Collabera",
+        "jobs": 1
+      },
+      {
+        "name": "Outpay",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "jest",
+    "count": 12,
+    "sample_size": 369,
+    "pct": 3.3,
+    "top_companies": [
+      {
+        "name": "Aorton Inc",
+        "jobs": 2
+      },
+      {
+        "name": "Miracle Software Systems, Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Outpay",
+        "jobs": 1
+      },
+      {
+        "name": "NetJets",
+        "jobs": 1
+      },
+      {
+        "name": "CSS Tec",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "nextjs",
+    "count": 10,
+    "sample_size": 369,
+    "pct": 2.7,
+    "top_companies": [
+      {
+        "name": "dot. cards",
+        "jobs": 1
+      },
+      {
+        "name": "myGwork - LGBTQ+ Business Community",
+        "jobs": 1
+      },
+      {
+        "name": "Autopilot",
+        "jobs": 1
+      },
+      {
+        "name": "AlterCall",
+        "jobs": 1
+      },
+      {
+        "name": "Red Ventures",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "redis",
+    "count": 10,
+    "sample_size": 369,
+    "pct": 2.7,
+    "top_companies": [
+      {
+        "name": "Gigster",
+        "jobs": 1
+      },
+      {
+        "name": "Outpay",
+        "jobs": 1
+      },
+      {
+        "name": "Discover Financial Services",
+        "jobs": 1
+      },
+      {
+        "name": "Genisis Technology Solutions",
+        "jobs": 1
+      },
+      {
+        "name": "Zillow",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "excel",
+    "count": 10,
+    "sample_size": 369,
+    "pct": 2.7,
+    "top_companies": [
+      {
+        "name": "American Unit, Inc",
+        "jobs": 2
+      },
+      {
+        "name": "VergeSense",
+        "jobs": 1
+      },
+      {
+        "name": "Cognizant",
+        "jobs": 1
+      },
+      {
+        "name": "Franklin Templeton",
+        "jobs": 1
+      },
+      {
+        "name": "Ace Technologies",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "express",
+    "count": 9,
+    "sample_size": 369,
+    "pct": 2.4,
+    "top_companies": [
+      {
+        "name": "Ideando Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Ascendion",
+        "jobs": 1
+      },
+      {
+        "name": "ServiceCore",
+        "jobs": 1
+      },
+      {
+        "name": "CBase Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Eliassen Group",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "webpack",
+    "count": 8,
+    "sample_size": 369,
+    "pct": 2.2,
+    "top_companies": [
+      {
+        "name": "Foot Locker",
+        "jobs": 1
+      },
+      {
+        "name": "AmberBox Gunshot Detection",
+        "jobs": 1
+      },
+      {
+        "name": "Cloudbeds",
+        "jobs": 1
+      },
+      {
+        "name": "CBase Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Square",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "go",
+    "count": 6,
+    "sample_size": 369,
+    "pct": 1.6,
+    "top_companies": [
+      {
+        "name": "Discover Financial Services",
+        "jobs": 2
+      },
+      {
+        "name": "Miracle Software Systems, Inc",
+        "jobs": 1
+      },
+      {
+        "name": "PAR Government",
+        "jobs": 1
+      },
+      {
+        "name": "Tata Consultancy Services",
+        "jobs": 1
+      },
+      {
+        "name": "Snap Inc.",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "nginx",
+    "count": 6,
+    "sample_size": 369,
+    "pct": 1.6,
+    "top_companies": [
+      {
+        "name": "Bemba",
+        "jobs": 2
+      },
+      {
+        "name": "Talentium",
+        "jobs": 1
+      },
+      {
+        "name": "Harvey Nash",
+        "jobs": 1
+      },
+      {
+        "name": "HIREBLAZER",
+        "jobs": 1
+      },
+      {
+        "name": "BetterHelp",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "power_bi",
+    "count": 6,
+    "sample_size": 369,
+    "pct": 1.6,
+    "top_companies": [
+      {
+        "name": "Excelon Solutions",
+        "jobs": 1
+      },
+      {
+        "name": "Ace Technologies",
+        "jobs": 1
+      },
+      {
+        "name": "VXXIV Corp.",
+        "jobs": 1
+      },
+      {
+        "name": "Agile Global Solutions, Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Milliman",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "nestjs",
+    "count": 5,
+    "sample_size": 369,
+    "pct": 1.4,
+    "top_companies": [
+      {
+        "name": "Adept",
+        "jobs": 1
+      },
+      {
+        "name": "Autopilot",
+        "jobs": 1
+      },
+      {
+        "name": "Red Ventures",
+        "jobs": 1
+      },
+      {
+        "name": "Indigo Tech",
+        "jobs": 1
+      },
+      {
+        "name": "Calyptus",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "flask",
+    "count": 5,
+    "sample_size": 369,
+    "pct": 1.4,
+    "top_companies": [
+      {
+        "name": "Synechron",
+        "jobs": 1
+      },
+      {
+        "name": "HIREBLAZER",
+        "jobs": 1
+      },
+      {
+        "name": "Satyam Venture Engineering Services",
+        "jobs": 1
+      },
+      {
+        "name": "Verizon",
+        "jobs": 1
+      },
+      {
+        "name": "Overview",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "etl",
+    "count": 4,
+    "sample_size": 369,
+    "pct": 1.1,
+    "top_companies": [
+      {
+        "name": "CBase Inc",
+        "jobs": 1
+      },
+      {
+        "name": "CACI International Inc",
+        "jobs": 1
+      },
+      {
+        "name": "Palisades Group",
+        "jobs": 1
+      },
+      {
+        "name": "Beacon Hill Staffing Group",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "figma",
+    "count": 4,
+    "sample_size": 369,
+    "pct": 1.1,
+    "top_companies": [
+      {
+        "name": "SQOR Technologies Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "Probably Genetic",
+        "jobs": 1
+      },
+      {
+        "name": "Synectics Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "ICE",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "tailwind",
+    "count": 3,
+    "sample_size": 369,
+    "pct": 0.8,
+    "top_companies": [
+      {
+        "name": "AlterCall",
+        "jobs": 1
+      },
+      {
+        "name": "VolunteerMatch",
+        "jobs": 1
+      },
+      {
+        "name": "Dice",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "vite",
+    "count": 3,
+    "sample_size": 369,
+    "pct": 0.8,
+    "top_companies": [
+      {
+        "name": "Square",
+        "jobs": 1
+      },
+      {
+        "name": "Synectics Inc.",
+        "jobs": 1
+      },
+      {
+        "name": "ICE",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "data_visualization",
+    "count": 3,
+    "sample_size": 369,
+    "pct": 0.8,
+    "top_companies": [
+      {
+        "name": "dot. cards",
+        "jobs": 1
+      },
+      {
+        "name": "BNY Mellon",
+        "jobs": 1
+      },
+      {
+        "name": "Synectics Inc.",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "svelte",
+    "count": 2,
+    "sample_size": 369,
+    "pct": 0.5,
+    "top_companies": [
+      {
+        "name": "ServiceCore",
+        "jobs": 1
+      },
+      {
+        "name": "Red Ventures",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "fastapi",
+    "count": 2,
+    "sample_size": 369,
+    "pct": 0.5,
+    "top_companies": [
+      {
+        "name": "Talentium",
+        "jobs": 1
+      },
+      {
+        "name": "Franklin Fitch",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "laravel",
+    "count": 2,
+    "sample_size": 369,
+    "pct": 0.5,
+    "top_companies": [
+      {
+        "name": "OSI Engineering",
+        "jobs": 1
+      },
+      {
+        "name": "Generis Tek Inc",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "vector_databases",
+    "count": 2,
+    "sample_size": 369,
+    "pct": 0.5,
+    "top_companies": [
+      {
+        "name": "CSS Tec",
+        "jobs": 1
+      },
+      {
+        "name": "Energy Jobline",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "tableau",
+    "count": 2,
+    "sample_size": 369,
+    "pct": 0.5,
+    "top_companies": [
+      {
+        "name": "Stellarwins Solutions",
+        "jobs": 1
+      },
+      {
+        "name": "Excelon Solutions",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "r_language",
+    "count": 2,
+    "sample_size": 369,
+    "pct": 0.5,
+    "top_companies": [
+      {
+        "name": "Ace Technologies",
+        "jobs": 1
+      },
+      {
+        "name": "Seneca Resources",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "sass",
+    "count": 1,
+    "sample_size": 369,
+    "pct": 0.3,
+    "top_companies": [
+      {
+        "name": "BetterHelp",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "firebase",
+    "count": 1,
+    "sample_size": 369,
+    "pct": 0.3,
+    "top_companies": [
+      {
+        "name": "micro1",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "langchain",
+    "count": 1,
+    "sample_size": 369,
+    "pct": 0.3,
+    "top_companies": [
+      {
+        "name": "CodeGPT",
+        "jobs": 1
+      }
+    ]
+  },
+  {
+    "role": "fullstack",
+    "period": "2026-10-04",
+    "skill_id": "statistics",
+    "count": 1,
+    "sample_size": 369,
+    "pct": 0.3,
+    "top_companies": [
+      {
+        "name": "Snap Inc.",
+        "jobs": 1
+      }
+    ]
+  }
+]

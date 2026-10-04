@@ -2,3 +2,5 @@ node_modules/
 .env
 __pycache__/
 venv/
+pipeline/data_raw/
+data_clean/

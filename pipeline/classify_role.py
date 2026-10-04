@@ -50,7 +50,7 @@ def classify_title(title, roles):
         if has_keyword and not has_excluded:
             return role["id"]
 
-    return None
+    return None # if no role matches.
 
 
 def main():

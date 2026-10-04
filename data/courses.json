@@ -1,0 +1,41 @@
+[
+  { "skill_id": "javascript", "title": "Learn JavaScript - Full Course for Beginners", "platform": "freeCodeCamp (YouTube)", "url": "https://www.freecodecamp.org/news/full-javascript-course-for-beginners/", "duration_hours": 7, "free": true, "level": "beginner" },
+  { "skill_id": "javascript", "title": "JavaScript Guide", "platform": "MDN Web Docs", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide", "duration_hours": null, "free": true, "level": "beginner" },
+
+  { "skill_id": "react", "title": "Learn React (2024 course)", "platform": "freeCodeCamp (YouTube)", "url": "https://www.freecodecamp.org/news/learn-react-2024/", "duration_hours": 16, "free": true, "level": "beginner" },
+  { "skill_id": "react", "title": "Quick Start", "platform": "React Official Docs", "url": "https://react.dev/learn", "duration_hours": null, "free": true, "level": "beginner" },
+
+  { "skill_id": "html", "title": "HTML Tutorial", "platform": "W3Schools", "url": "https://www.w3schools.com/html/", "duration_hours": null, "free": true, "level": "beginner" },
+  { "skill_id": "css", "title": "CSS Tutorial", "platform": "W3Schools", "url": "https://www.w3schools.com/css/", "duration_hours": null, "free": true, "level": "beginner" },
+
+  { "skill_id": "angular", "title": "In-app Tutorials", "platform": "Angular Official Docs", "url": "https://angular.dev/tutorials", "duration_hours": null, "free": true, "level": "beginner" },
+
+  { "skill_id": "nextjs", "title": "Learn Next.js", "platform": "Next.js Official Docs", "url": "https://nextjs.org/learn", "duration_hours": null, "free": true, "level": "intermediate" },
+
+  { "skill_id": "typescript", "title": "TypeScript Handbook", "platform": "TypeScript Official Docs", "url": "https://www.typescriptlang.org/docs/handbook/intro.html", "duration_hours": null, "free": true, "level": "intermediate" },
+
+  { "skill_id": "python", "title": "The Python Tutorial", "platform": "Python Official Docs", "url": "https://docs.python.org/3/tutorial/", "duration_hours": null, "free": true, "level": "beginner" },
+
+  { "skill_id": "java", "title": "Java Documentation", "platform": "Oracle Java Docs", "url": "https://docs.oracle.com/en/java/", "duration_hours": null, "free": true, "level": "intermediate" },
+  { "skill_id": "spring_boot", "title": "Getting Started Guides", "platform": "Spring Official Docs", "url": "https://spring.io/guides", "duration_hours": null, "free": true, "level": "intermediate" },
+
+  { "skill_id": "nodejs", "title": "Learn Node.js", "platform": "Node.js Official Docs", "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs", "duration_hours": null, "free": true, "level": "beginner" },
+  { "skill_id": "express", "title": "Getting Started", "platform": "Express.js Official Docs", "url": "https://expressjs.com/en/starter/installing.html", "duration_hours": null, "free": true, "level": "beginner" },
+
+  { "skill_id": "sql", "title": "SQL Tutorial", "platform": "W3Schools", "url": "https://www.w3schools.com/sql/", "duration_hours": null, "free": true, "level": "beginner" },
+  { "skill_id": "mongodb", "title": "Getting Started", "platform": "MongoDB Official Docs", "url": "https://www.mongodb.com/docs/manual/tutorial/getting-started/", "duration_hours": null, "free": true, "level": "beginner" },
+  { "skill_id": "postgresql", "title": "PostgreSQL Tutorial", "platform": "PostgreSQL Official Docs", "url": "https://www.postgresql.org/docs/current/tutorial.html", "duration_hours": null, "free": true, "level": "intermediate" },
+
+  { "skill_id": "aws", "title": "Getting Started Resource Center", "platform": "AWS Official", "url": "https://aws.amazon.com/getting-started/", "duration_hours": null, "free": true, "level": "intermediate" },
+  { "skill_id": "docker", "title": "Get Started Guide", "platform": "Docker Official Docs", "url": "https://docs.docker.com/get-started/", "duration_hours": null, "free": true, "level": "intermediate" },
+  { "skill_id": "kubernetes", "title": "Kubernetes Basics", "platform": "Kubernetes Official Docs", "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/", "duration_hours": null, "free": true, "level": "advanced" },
+  { "skill_id": "git", "title": "Pro Git Book", "platform": "Git Official Docs", "url": "https://git-scm.com/book/en/v2", "duration_hours": null, "free": true, "level": "beginner" },
+
+  { "skill_id": "power_bi", "title": "Power BI Fundamentals", "platform": "Microsoft Learn", "url": "https://learn.microsoft.com/en-us/power-bi/fundamentals/", "duration_hours": null, "free": true, "level": "beginner" },
+  { "skill_id": "excel", "title": "Excel Help & Training", "platform": "Microsoft Support", "url": "https://support.microsoft.com/en-us/excel", "duration_hours": null, "free": true, "level": "beginner" },
+
+  { "skill_id": "rest_api", "title": "REST API Tutorial", "platform": "freeCodeCamp", "url": "https://www.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/", "duration_hours": null, "free": true, "level": "intermediate" },
+  { "skill_id": "graphql", "title": "Introduction to GraphQL", "platform": "GraphQL Official Docs", "url": "https://graphql.org/learn/", "duration_hours": null, "free": true, "level": "intermediate" },
+
+  { "skill_id": "llm_apis", "title": "Claude API Documentation", "platform": "Anthropic Official Docs", "url": "https://docs.claude.com", "duration_hours": null, "free": true, "level": "intermediate" }
+]

@@ -13,12 +13,22 @@ function App() {
   const [result, setResult] = useState(null)
   const [selectedGapSkillId, setSelectedGapSkillId] = useState(null)
 
-  const { data: rolesData, isLoading: rolesLoading } = useQuery({
+  const {
+    data: rolesData,
+    isLoading: rolesLoading,
+    isError: rolesError,
+    refetch: refetchRoles,
+  } = useQuery({
     queryKey: ['roles'],
     queryFn: getRoles,
   })
 
-  const { data: skillsData, isLoading: skillsLoading } = useQuery({
+  const {
+    data: skillsData,
+    isLoading: skillsLoading,
+    isError: skillsError,
+    refetch: refetchSkills,
+  } = useQuery({
     queryKey: ['skills'],
     queryFn: getSkills,
   })
@@ -40,6 +50,15 @@ function App() {
     analyzeMutation.mutate({ role: selectedRole, skills: selectedSkills })
   }
 
+  // If the user changes the role after already seeing results, the old
+  // results no longer match what the dropdown shows. Clear them so the
+  // page never displays results for a different role than is selected.
+  function handleRoleChange(roleId) {
+    setSelectedRole(roleId)
+    setResult(null)
+    setSelectedGapSkillId(null)
+  }
+
   const selectedGapSkill = useMemo(() => {
     if (!result || !selectedGapSkillId) return null
     return result.missing_skills.find((s) => s.skill_id === selectedGapSkillId) || null
@@ -53,6 +72,30 @@ function App() {
     )
   }
 
+  if (rolesError || skillsError) {
+    return (
+      <div className="min-h-screen bg-slate-950 flex items-center justify-center p-6">
+        <div className="max-w-sm text-center">
+          <p className="text-slate-200 font-medium mb-2">
+            Can't reach the StackGap server.
+          </p>
+          <p className="text-sm text-slate-500 mb-4">
+            Make sure the API is running, then try again.
+          </p>
+          <button
+            onClick={() => {
+              refetchRoles()
+              refetchSkills()
+            }}
+            className="bg-blue-600 hover:bg-blue-500 text-white text-sm font-medium px-4 py-2 rounded-lg transition-colors"
+          >
+            Retry
+          </button>
+        </div>
+      </div>
+    )
+  }
+
   return (
     <div className="min-h-screen bg-slate-950 p-6">
       <div className="max-w-4xl mx-auto space-y-5">
@@ -60,7 +103,7 @@ function App() {
           roles={rolesData.roles}
           allSkills={skillsData.skills}
           selectedRole={selectedRole}
-          onRoleChange={setSelectedRole}
+          onRoleChange={handleRoleChange}
           selectedSkills={selectedSkills}
           onSkillsChange={setSelectedSkills}
           onAnalyze={handleAnalyze}
@@ -99,7 +142,7 @@ function App() {
             />
 
             <p className="text-xs text-slate-600 text-center pt-2">
-              Based on {result.sample_size.toLocaleString()} job postings · StackGap
+              Based on {(result.sample_size ?? 0).toLocaleString()} job postings · StackGap
             </p>
           </>
         )}

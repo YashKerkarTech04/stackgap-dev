@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react'
 import { useQuery, useMutation } from '@tanstack/react-query'
 import { getRoles, getSkills, analyze } from './api/client'
+import Navbar from './components/Navbar'
 import InputSection from './components/InputSection'
 import SummaryStrip from './components/SummaryStrip'
 import MissingSkillsList from './components/MissingSkillsList'
@@ -97,7 +98,10 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen bg-slate-950 p-6">
+  <div className="min-h-screen bg-slate-950">
+    <Navbar />
+
+    <main className="p-6">
       <div className="max-w-4xl mx-auto space-y-5">
         <InputSection
           roles={rolesData.roles}
@@ -130,6 +134,7 @@ function App() {
                 selectedSkillId={selectedGapSkillId}
                 onSelectSkill={setSelectedGapSkillId}
               />
+
               <CompaniesPanel
                 skillName={selectedGapSkill?.name || null}
                 companies={selectedGapSkill?.top_companies || []}
@@ -147,8 +152,9 @@ function App() {
           </>
         )}
       </div>
-    </div>
-  )
+    </main>
+  </div>
+)
 }
 
 export default App

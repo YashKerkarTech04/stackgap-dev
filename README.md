@@ -4,7 +4,7 @@
 
 Pick a role, add the skills you already know, and StackGap shows you what else employers are asking for, how often, which companies are hiring for it, and where to learn it.
 
-**Live demo:** [ADD YOUR VERCEL LINK HERE]
+**Live demo:** https://stackgap-dev-murex.vercel.app/
 
 No login or sign-up needed.
 
